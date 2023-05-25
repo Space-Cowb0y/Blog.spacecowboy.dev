@@ -5,6 +5,10 @@
       <loc>https://blog.spacecowboy.dev/categories/</loc>
       
       
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
       
       
     </url>
@@ -13,6 +17,10 @@
       <loc>https://blog.spacecowboy.dev/</loc>
       
       
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
       
       
     </url>
@@ -21,6 +29,10 @@
       <loc>https://blog.spacecowboy.dev/tags/</loc>
       
       
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
       
       
     </url>
